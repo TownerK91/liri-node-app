@@ -1,0 +1,27 @@
+{
+    "name": "liri",
+    "version": "0.0.1",
+    "description": "stuff",
+    "main": "keys.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/TownerK91/liri-node-app.git"
+    },
+    "keywords": [
+        "liri",
+        "rbc"
+    ],
+    "author": "kevin towner",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/TownerK91/liri-node-app/issues"
+    },
+    "homepage": "https://github.com/TownerK91/liri-node-app#readme",
+    "dependencies": {
+        "node-spotify-api": "^1.0.7",
+        "twit": "^2.2.9"
+    }
+}
