@@ -10,6 +10,7 @@ var spotifyKeys = {
     id: 'kYRtcimEOO9u8NtTAehuJQA1J',
     password: '84NAat8GGV1okWw0okG6CwCldyGHLolf3mzrrSZWCCTyvcBiiV',
 }
+module.exports = spotifyKeys;
 
 
 

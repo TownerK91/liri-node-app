@@ -21,6 +21,7 @@
     },
     "homepage": "https://github.com/TownerK91/liri-node-app#readme",
     "dependencies": {
+        "request": "^2.83.0",
         "node-spotify-api": "^1.0.7",
         "twit": "^2.2.9"
     }
